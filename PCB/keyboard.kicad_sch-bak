@@ -7129,7 +7129,7 @@
 	)
 	(global_label "col7"
 		(shape input)
-		(at 328.93 267.97 0)
+		(at 354.33 246.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7138,7 +7138,7 @@
 		)
 		(uuid "209b9788-a350-4b93-a9bf-f20ed3a07c39")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.93 267.97 0)
+			(at 354.33 246.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7149,7 +7149,7 @@
 	)
 	(global_label "col2"
 		(shape input)
-		(at 328.93 219.71 0)
+		(at 328.93 222.25 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7158,7 +7158,7 @@
 		)
 		(uuid "221f4d3a-5809-4ca4-9063-4cae9fcfc390")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.93 219.71 0)
+			(at 328.93 222.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7169,7 +7169,7 @@
 	)
 	(global_label "col3"
 		(shape input)
-		(at 328.93 222.25 0)
+		(at 328.93 219.71 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7178,7 +7178,7 @@
 		)
 		(uuid "2444e261-9fa3-4945-86fc-f0e2065e67e9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.93 222.25 0)
+			(at 328.93 219.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7211,7 +7211,7 @@
 	)
 	(global_label "col0"
 		(shape input)
-		(at 328.93 255.27 0)
+		(at 328.93 232.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7220,7 +7220,7 @@
 		)
 		(uuid "3752a75d-43ab-4a11-bcec-b290b6a9b651")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.93 255.27 0)
+			(at 328.93 232.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7231,7 +7231,7 @@
 	)
 	(global_label "col5"
 		(shape input)
-		(at 328.93 232.41 0)
+		(at 328.93 255.27 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7240,7 +7240,7 @@
 		)
 		(uuid "3b51b780-90bb-40e4-ba95-661e37eaab07")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.93 232.41 0)
+			(at 328.93 255.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7271,7 +7271,7 @@
 	)
 	(global_label "col4"
 		(shape input)
-		(at 328.93 229.87 0)
+		(at 328.93 217.17 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7280,7 +7280,7 @@
 		)
 		(uuid "4ae0732f-f686-4c29-a2f1-cd2a865df705")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.93 229.87 0)
+			(at 328.93 217.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7413,7 +7413,7 @@
 	)
 	(global_label "col14"
 		(shape input)
-		(at 328.93 245.11 0)
+		(at 328.93 250.19 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7422,7 +7422,7 @@
 		)
 		(uuid "75683bc7-5918-431f-b941-63a91ce89737")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.93 245.11 0)
+			(at 328.93 250.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7493,7 +7493,7 @@
 	)
 	(global_label "col13"
 		(shape input)
-		(at 328.93 250.19 0)
+		(at 328.93 245.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7502,7 +7502,7 @@
 		)
 		(uuid "7e8c4889-afdf-4c2a-9277-2f9a13a84bb1")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.93 250.19 0)
+			(at 328.93 245.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7553,7 +7553,7 @@
 	)
 	(global_label "col1"
 		(shape input)
-		(at 328.93 217.17 0)
+		(at 328.93 229.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7562,7 +7562,7 @@
 		)
 		(uuid "9380a8cc-f8dd-4d31-abcb-ebbf2f5fdb38")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.93 217.17 0)
+			(at 328.93 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8001,7 +8001,7 @@
 		(at 495.3 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0193eeb3-bbe0-420b-8da1-36fbfe2135c7")
@@ -8068,7 +8068,7 @@
 		(at 317.5 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "03882342-db40-48db-9820-a2e243223cd2")
@@ -8135,7 +8135,7 @@
 		(at 190.5 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "05e67385-2248-449e-9353-f42e981ee5b1")
@@ -8224,7 +8224,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 495.3 159.385 0)
 			(effects
 				(font
@@ -8271,7 +8271,7 @@
 		(at 190.5 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "076a4bb5-6ce7-4928-8ebd-752842be34cb")
@@ -8338,7 +8338,7 @@
 		(at 266.7 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "07975665-d4f7-42cd-a04e-7c33943fa6d1")
@@ -8427,7 +8427,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 165.1 57.785 0)
 			(effects
 				(font
@@ -8496,7 +8496,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 241.3 83.185 0)
 			(effects
 				(font
@@ -8543,7 +8543,7 @@
 		(at 241.3 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0ec8cf34-bff0-4ca6-a341-53e7c4b480ab")
@@ -8610,7 +8610,7 @@
 		(at 368.3 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0fcb0e9f-8b6c-4a69-a95e-f4871784f043")
@@ -8677,7 +8677,7 @@
 		(at 139.7 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "103dd189-243e-499c-964d-333e0a74a88e")
@@ -8766,7 +8766,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 419.1 57.785 0)
 			(effects
 				(font
@@ -8813,7 +8813,7 @@
 		(at 317.5 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "16d10a78-5707-49a1-900d-3c2996eb593b")
@@ -8902,7 +8902,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 368.3 83.185 0)
 			(effects
 				(font
@@ -8971,7 +8971,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 190.5 108.585 0)
 			(effects
 				(font
@@ -9040,7 +9040,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 444.5 83.185 0)
 			(effects
 				(font
@@ -9109,7 +9109,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 342.9 83.185 0)
 			(effects
 				(font
@@ -9293,7 +9293,7 @@
 		(at 266.7 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "292c2a45-af63-4cd4-b58d-b9ce8ed6b970")
@@ -9360,7 +9360,7 @@
 		(at 342.9 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "2acd5a67-5214-4070-995e-16b87aa47a67")
@@ -9427,7 +9427,7 @@
 		(at 139.7 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "2bc159fc-a428-4e77-b115-fce194299c8a")
@@ -9582,7 +9582,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 292.1 83.185 0)
 			(effects
 				(font
@@ -9629,7 +9629,7 @@
 		(at 292.1 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "310beb1d-554f-4079-bef0-867ee3305051")
@@ -9718,7 +9718,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 292.1 57.785 0)
 			(effects
 				(font
@@ -9787,7 +9787,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 317.5 83.185 0)
 			(effects
 				(font
@@ -9834,7 +9834,7 @@
 		(at 368.3 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "34964fc0-246a-4dea-81ee-69e15ed12cfa")
@@ -9967,7 +9967,7 @@
 		(at 292.1 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "3e978d90-2f99-4610-9a59-93c27ead5d96")
@@ -10056,7 +10056,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 215.9 159.385 0)
 			(effects
 				(font
@@ -10192,7 +10192,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 342.9 133.985 0)
 			(effects
 				(font
@@ -10239,7 +10239,7 @@
 		(at 469.9 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "423fe327-1d3a-4713-be83-3453213c0256")
@@ -10328,7 +10328,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 342.9 108.585 0)
 			(effects
 				(font
@@ -10375,7 +10375,7 @@
 		(at 393.7 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4607c7ed-0c7a-4a03-b6eb-150d3818bb36")
@@ -10442,7 +10442,7 @@
 		(at 215.9 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "46dd0797-051a-4a5a-a7f9-e9c3f6db892c")
@@ -10509,7 +10509,7 @@
 		(at 419.1 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "48c83da9-c070-432c-87bf-7dfd09d04571")
@@ -10576,7 +10576,7 @@
 		(at 292.1 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4a7a5682-356f-45b0-8abb-e71ab14d8bed")
@@ -10643,7 +10643,7 @@
 		(at 419.1 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4bc55ca5-cc71-4534-b3e9-5fc9692b82a7")
@@ -10710,7 +10710,7 @@
 		(at 215.9 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "4fa4d3f9-283e-496f-a0dc-2be79d2c360e")
@@ -11005,7 +11005,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 215.9 133.985 0)
 			(effects
 				(font
@@ -11144,7 +11144,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 495.3 57.785 0)
 			(effects
 				(font
@@ -11260,7 +11260,7 @@
 		(at 393.7 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "57e2591e-ebfd-49df-b579-fb23fdb36d03")
@@ -11349,7 +11349,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 469.9 159.385 0)
 			(effects
 				(font
@@ -11418,7 +11418,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 495.3 83.185 0)
 			(effects
 				(font
@@ -11465,7 +11465,7 @@
 		(at 215.9 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "5e190c02-f6cb-4f8b-a6a3-a58d855895e5")
@@ -11554,7 +11554,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 469.9 83.185 0)
 			(effects
 				(font
@@ -11601,7 +11601,7 @@
 		(at 393.7 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6131f88c-f39a-4151-ac63-1fd25b135cdd")
@@ -11690,7 +11690,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 419.1 83.185 0)
 			(effects
 				(font
@@ -11759,7 +11759,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 241.3 108.585 0)
 			(effects
 				(font
@@ -11828,7 +11828,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 57.785 0)
 			(effects
 				(font
@@ -11875,7 +11875,7 @@
 		(at 419.1 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "66ef0be9-f0e9-4622-8bc5-1d1ca3f3eadf")
@@ -11942,7 +11942,7 @@
 		(at 342.9 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "67749435-f075-47e6-81fb-7acf8951eaf8")
@@ -12031,7 +12031,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 469.9 57.785 0)
 			(effects
 				(font
@@ -12078,7 +12078,7 @@
 		(at 266.7 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6a897e6d-548a-47e0-a301-85988f06ba1c")
@@ -12213,7 +12213,7 @@
 		(at 419.1 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "6dc7668e-91e8-4322-acf8-a1f9d9d66a41")
@@ -12302,7 +12302,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 393.7 83.185 0)
 			(effects
 				(font
@@ -12349,7 +12349,7 @@
 		(at 469.9 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7265000a-0ab0-4ce2-b1fc-3a407f2765c1")
@@ -12574,7 +12574,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 159.385 0)
 			(effects
 				(font
@@ -12643,7 +12643,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 419.1 108.585 0)
 			(effects
 				(font
@@ -12712,7 +12712,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 292.1 159.385 0)
 			(effects
 				(font
@@ -12781,7 +12781,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 133.985 0)
 			(effects
 				(font
@@ -12850,7 +12850,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 444.5 57.785 0)
 			(effects
 				(font
@@ -12897,7 +12897,7 @@
 		(at 444.5 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7918f55f-b23c-4bb0-b265-5a086af5fcf4")
@@ -12986,7 +12986,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 368.3 108.585 0)
 			(effects
 				(font
@@ -13033,7 +13033,7 @@
 		(at 266.7 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "79d777c8-ca37-41b5-a3d1-aa6b4591225a")
@@ -13122,7 +13122,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 108.585 0)
 			(effects
 				(font
@@ -13258,7 +13258,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 444.5 108.585 0)
 			(effects
 				(font
@@ -13327,7 +13327,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 393.7 159.385 0)
 			(effects
 				(font
@@ -13374,7 +13374,7 @@
 		(at 393.7 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7d03b43b-a0c7-4160-b199-945436c9ec7e")
@@ -13601,7 +13601,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 292.1 133.985 0)
 			(effects
 				(font
@@ -13670,7 +13670,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 165.1 133.985 0)
 			(effects
 				(font
@@ -13739,7 +13739,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 266.7 83.185 0)
 			(effects
 				(font
@@ -13786,7 +13786,7 @@
 		(at 139.7 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "8412581b-1aed-4fda-80cc-a365252e0e76")
@@ -13875,7 +13875,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 215.9 83.185 0)
 			(effects
 				(font
@@ -13944,7 +13944,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 215.9 57.785 0)
 			(effects
 				(font
@@ -14013,7 +14013,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 292.1 108.585 0)
 			(effects
 				(font
@@ -14060,7 +14060,7 @@
 		(at 196.85 242.57 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14081,7 +14081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "custom_components:USB_C_Receptacle_G-Switch_GT-USB-7010ASV_custom"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
 			(at 200.66 242.57 0)
 			(effects
 				(font
@@ -14197,7 +14197,7 @@
 		(at 241.3 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "86b58843-9b61-4e39-8e52-990660fc4b2e")
@@ -14264,7 +14264,7 @@
 		(at 215.9 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "8bd94b3e-a820-469e-a3ef-51e28f5ae978")
@@ -14353,7 +14353,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 393.7 133.985 0)
 			(effects
 				(font
@@ -14422,7 +14422,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 393.7 57.785 0)
 			(effects
 				(font
@@ -14491,7 +14491,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 342.9 57.785 0)
 			(effects
 				(font
@@ -14560,7 +14560,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 368.3 57.785 0)
 			(effects
 				(font
@@ -14762,7 +14762,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 419.1 159.385 0)
 			(effects
 				(font
@@ -14831,7 +14831,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 190.5 83.185 0)
 			(effects
 				(font
@@ -14968,7 +14968,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 190.5 57.785 0)
 			(effects
 				(font
@@ -15015,7 +15015,7 @@
 		(at 368.3 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9b3c3cba-a2be-40cd-b9e3-0d84eae03c78")
@@ -15082,7 +15082,7 @@
 		(at 444.5 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9d1dcf87-c46f-4c8a-9815-9c2ce36d3d69")
@@ -15149,7 +15149,7 @@
 		(at 165.1 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9f0e38cd-d04a-4fb2-b385-2b401eadd9e4")
@@ -15216,7 +15216,7 @@
 		(at 317.5 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "a1119945-7820-42bd-afe3-85361ef16b94")
@@ -15305,7 +15305,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 393.7 108.585 0)
 			(effects
 				(font
@@ -15352,7 +15352,7 @@
 		(at 368.3 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "a3053465-1eca-40a0-a779-2e16dc08239e")
@@ -15641,7 +15641,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 419.1 133.985 0)
 			(effects
 				(font
@@ -15688,7 +15688,7 @@
 		(at 469.9 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "a9c06c29-adcc-4a4b-a68f-48118c425a7d")
@@ -15777,7 +15777,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 241.3 57.785 0)
 			(effects
 				(font
@@ -15824,7 +15824,7 @@
 		(at 292.1 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "b3368d61-d662-4a95-a399-2f1a789ea140")
@@ -15961,7 +15961,7 @@
 		(at 165.1 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "b9a8dc7e-0fb5-4160-9f63-01bd2c5c1852")
@@ -16028,7 +16028,7 @@
 		(at 444.5 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "be6a229d-44d8-427f-a00e-c180a0aad1ed")
@@ -16095,7 +16095,7 @@
 		(at 241.3 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "bfdceff7-4099-40f8-b722-1ecd7c6469e8")
@@ -16162,7 +16162,7 @@
 		(at 495.3 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c5918ab9-8a06-4dfe-8e94-ea69f3ae42e2")
@@ -16229,7 +16229,7 @@
 		(at 469.9 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c5e2d8a1-4074-4250-bdf9-d2b78b2d733a")
@@ -16296,7 +16296,7 @@
 		(at 215.9 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c6d979c6-df33-47db-ae0f-5be960a2ff4c")
@@ -16363,7 +16363,7 @@
 		(at 342.9 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "c96ad2ef-0c8d-4e44-9e7b-995db8e35fe3")
@@ -16452,7 +16452,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 469.9 133.985 0)
 			(effects
 				(font
@@ -16499,7 +16499,7 @@
 		(at 495.3 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ca2e7d51-733e-487a-aa36-d7487c32a72a")
@@ -16566,7 +16566,7 @@
 		(at 292.1 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "cade4c0c-8876-42a9-aa56-198afe05c606")
@@ -16633,7 +16633,7 @@
 		(at 165.1 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "cc8400aa-9eca-49ea-9a6f-228f3b7083b3")
@@ -16700,7 +16700,7 @@
 		(at 190.5 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "cd92084a-46da-47e6-baf1-61dde0beaff1")
@@ -16789,7 +16789,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 368.3 133.985 0)
 			(effects
 				(font
@@ -16903,7 +16903,7 @@
 		(at 419.1 67.945 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d6f473d6-1c25-458a-94f8-037929d2a9ed")
@@ -17038,7 +17038,7 @@
 		(at 190.5 93.345 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "d7c16386-fade-466d-afaf-02c389ce751a")
@@ -17127,7 +17127,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 215.9 108.585 0)
 			(effects
 				(font
@@ -17240,7 +17240,7 @@
 		(at 241.3 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "dbc7f6d2-b8bb-48d8-9839-3712b84fa725")
@@ -17329,7 +17329,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 83.185 0)
 			(effects
 				(font
@@ -17464,7 +17464,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 108.585 0)
 			(effects
 				(font
@@ -17606,7 +17606,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 165.1 159.385 0)
 			(effects
 				(font
@@ -17675,7 +17675,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 469.9 108.585 0)
 			(effects
 				(font
@@ -17744,7 +17744,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 190.5 133.985 0)
 			(effects
 				(font
@@ -17880,7 +17880,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 317.5 57.785 0)
 			(effects
 				(font
@@ -17993,7 +17993,7 @@
 		(at 469.9 144.145 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "ef33a908-fd81-4486-882f-979f35ab29f7")
@@ -18060,7 +18060,7 @@
 		(at 317.5 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "efbc011c-5db3-4aa2-b2b5-49094f29c7be")
@@ -18127,7 +18127,7 @@
 		(at 342.9 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f30a61c8-6bb0-4f5b-a6b3-2628b00f287f")
@@ -18282,7 +18282,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 139.7 57.785 0)
 			(effects
 				(font
@@ -18351,7 +18351,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 317.5 133.985 0)
 			(effects
 				(font
@@ -18467,7 +18467,7 @@
 		(at 139.7 42.545 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f82f4fc0-73be-40bd-a4e3-d14b343b7ce6")
@@ -18534,7 +18534,7 @@
 		(at 393.7 118.745 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f96fd7e8-33db-490e-b4ec-a4f27bf5be6f")
@@ -18623,7 +18623,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 241.3 133.985 0)
 			(effects
 				(font
@@ -18692,7 +18692,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "custom_components:D_SOD-123_vertical"
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 317.5 108.585 0)
 			(effects
 				(font
