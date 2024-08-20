@@ -6,6 +6,7 @@
 	(property "Reference" "${REFERENCE}"
 		(at -3.3 0 -90)
 		(layer "F.SilkS")
+		(hide yes)
 		(uuid "438b98ed-7a40-4115-be2e-445b947c16e8")
 		(effects
 			(font
