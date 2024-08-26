@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "keyboard_stabilizer")(type "KiCad")(uri "${KIPRJMOD}/components/keyboard_stabilizer.pretty")(options "")(descr ""))
+  (lib (name "keyboard_switches")(type "KiCad")(uri "${KIPRJMOD}/components/keyboard_switches.pretty")(options "")(descr ""))
+  (lib (name "custom_mounting_hole")(type "KiCad")(uri "${KIPRJMOD}/components/custom_mounting_hole.pretty")(options "")(descr ""))
+  (lib (name "custom_components")(type "KiCad")(uri "${KIPRJMOD}/components/custom_components.pretty")(options "")(descr ""))
+)

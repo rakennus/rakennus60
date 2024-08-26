@@ -73,37 +73,8 @@
         "copper_edge_clearance|48596250|73660000|4c66fd85-29b9-4162-a310-6b19ccc887da|a635bd35-5d87-4d43-9e8e-a6f26eda5107",
         "copper_edge_clearance|50006250|76200000|4c66fd85-29b9-4162-a310-6b19ccc887da|1f92163e-ef00-404b-853f-239423d5b0e9",
         "copper_edge_clearance|971250|73660000|f0db53ce-dced-4ad3-a105-d31407102c03|24e27a7e-62ae-4ddc-a37f-abfbfd87848c",
-        "courtyards_overlap|126100001|68951271|ff01b1cf-b9bb-447c-85c5-23247b31bcd7|8e0e6d97-e5af-47ca-9f6a-a225b698c82b",
-        "courtyards_overlap|16550001|49900001|c961da9a-7b64-4ae8-b40f-2620dcadf6a7|75ff631b-3551-419e-ae35-1eb1b165eeb4",
-        "courtyards_overlap|242781251|49900001|c39498b9-dda4-44d9-ae11-49c3134d77f9|97bd059b-c185-43ee-a540-4e029cc407e0",
-        "courtyards_overlap|247543751|30850001|521735ec-fb1a-42ba-9269-f157d0f96a7c|4a390ec5-d7f6-4682-baa6-a516635add82",
-        "courtyards_overlap|249950001|-7249999|57067954-3d75-4cc7-b94f-7936b6aff746|28dd410f-63f2-4331-80dd-e96b91442ebd",
-        "courtyards_overlap|257070001|30850001|5be611c0-09f1-4750-82a8-1fb7fc9da8ca|521735ec-fb1a-42ba-9269-f157d0f96a7c",
         "courtyards_overlap|259450001|-7249999|57067954-3d75-4cc7-b94f-7936b6aff746|a8e257ca-72e5-49a1-b45f-ae0a9502a39d",
-        "courtyards_overlap|269187499|21320001|bceec398-8d29-4bbc-9fc9-d977230d0acf|5be611c0-09f1-4750-82a8-1fb7fc9da8ca",
-        "courtyards_overlap|4656251|49900001|c961da9a-7b64-4ae8-b40f-2620dcadf6a7|4d593fed-887c-48e2-b4da-22ce78d171a5",
-        "hole_clearance|212883750|73660000|c58df568-8620-405d-a8b1-b80dd4d95f88|dd853bb4-828e-4d58-879f-7f78e2243b2b",
-        "hole_clearance|214293750|76200000|c58df568-8620-405d-a8b1-b80dd4d95f88|4928167d-c175-4627-a91c-be674a066cb7",
-        "hole_clearance|236696250|73660000|5e11b603-ffa6-47e1-9335-cdf7136cf643|84cc7398-a8a9-421f-a406-66ae50c0b762",
-        "hole_clearance|238106250|76200000|5e11b603-ffa6-47e1-9335-cdf7136cf643|85b413d0-162e-44ea-90c9-18a8eddbbd16",
-        "hole_clearance|2381250|76200000|f0db53ce-dced-4ad3-a105-d31407102c03|0ef9cd94-c83e-45b4-900a-6048acaaf195",
-        "hole_clearance|24790000|73660000|d30b955e-5dcd-43f5-9925-a9c8e87b08b9|abf9fcf6-f0cf-485c-96ee-500a0900bf07",
-        "hole_clearance|26200000|76200000|d30b955e-5dcd-43f5-9925-a9c8e87b08b9|8d117801-e33a-45b8-a46e-353ac1875f79",
-        "hole_clearance|264320000|23490000|f5ee5b3c-9705-4014-998d-3b1c1f13ee6a|92774879-dd4c-4e89-a654-f72a290fb6c6",
-        "hole_clearance|266731750|31115000|2f1130f6-27c9-4fcf-bf86-e7e5849396d3|2ccc106a-8a27-441a-ba95-8f2914480e6f",
-        "hole_clearance|48596250|73660000|4c66fd85-29b9-4162-a310-6b19ccc887da|a635bd35-5d87-4d43-9e8e-a6f26eda5107",
-        "hole_clearance|50006250|76200000|4c66fd85-29b9-4162-a310-6b19ccc887da|1f92163e-ef00-404b-853f-239423d5b0e9",
-        "hole_clearance|971250|73660000|f0db53ce-dced-4ad3-a105-d31407102c03|24e27a7e-62ae-4ddc-a37f-abfbfd87848c",
-        "hole_near_hole|128270000|76201270|9aca8eae-c201-4c6c-a0d6-6af1569440c6|e8983eca-3fec-41b2-a5ad-fb2a7ca3a2f6",
-        "hole_near_hole|16986250|57150000|a84de247-f68c-4810-b382-95e5a42f0ba7|f092510f-f29f-4592-8c60-f3a443b479ab",
-        "hole_near_hole|245580000|57150000|8d46292c-4d9a-49f0-96a7-be7013527994|58ebb42c-a891-4b39-a558-7dfba0fdbab9",
-        "hole_near_hole|249713750|38100000|e0495be4-7fe7-423f-95d2-c34ce4aa9c54|01797e23-f039-4f88-9832-4e083c745a8d",
-        "hole_near_hole|252120000|0|d65e5110-e08d-4b82-b503-b2033bfb78f1|55591a76-f5c9-4a28-90ab-1f9626351dcc",
-        "hole_near_hole|256857500|19050000|5a36e50b-c2b8-4df0-9c05-d03a7e88915d|441df605-33b1-417d-8115-491250dc8062",
-        "hole_near_hole|257335000|40508000|34224ea2-db06-4631-8b57-f3ca64469d52|7f35aec4-83c2-4ab8-9f9c-65829304a5d9",
         "hole_near_hole|262280000|0|0f37eca2-f69a-4f93-a41c-4d2c4a44ec26|a4b66570-6ddc-436d-8d52-a1cc886edec4",
-        "hole_near_hole|264320000|28570000|18ed3578-11ad-470b-9537-3868f62d8725|2ccc106a-8a27-441a-ba95-8f2914480e6f",
-        "hole_near_hole|6826250|57150000|3965a9f8-9a74-4ad1-b422-66b93fead9bf|eb9e5d7b-9e4b-4782-af43-2b4886033bd4",
         "solder_mask_bridge|214293750|76200000|c58df568-8620-405d-a8b1-b80dd4d95f88|4928167d-c175-4627-a91c-be674a066cb7",
         "solder_mask_bridge|214293750|76200000|c58df568-8620-405d-a8b1-b80dd4d95f88|dd853bb4-828e-4d58-879f-7f78e2243b2b",
         "solder_mask_bridge|238106250|76200000|5e11b603-ffa6-47e1-9335-cdf7136cf643|84cc7398-a8a9-421f-a406-66ae50c0b762",
@@ -2151,6 +2122,14 @@
       {
         "netclass": "power",
         "pattern": "power"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "D-"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "D+"
       }
     ]
   },
