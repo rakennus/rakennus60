@@ -2141,8 +2141,8 @@
       "plot": "manufacturing/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
-      "svg": "C:/Users/rakennus/Downloads/",
+      "step": "../../../../../Downloads/keyboard.step",
+      "svg": "C:/Users/rakennus/Downloads/svg/",
       "vrml": ""
     },
     "page_layout_descr_file": ""
